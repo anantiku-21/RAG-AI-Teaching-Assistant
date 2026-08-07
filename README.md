@@ -1,4 +1,4 @@
-# RAG-AI-Teaching-Assistant
+# Automated Information Extraction Engine via Local Generative AI
 # How to use this Rag AI Teaching Assistant on your own data
 
 ## STEP-1 Collect your Own videos
