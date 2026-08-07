@@ -1,4 +1,5 @@
 # Automated Information Extraction Engine via Local Generative AI
+Built an Automated Knowledge Retrieval Engine. In a consulting environment, the exact same architecture used to query a course lecture is used to mine unstructured client meeting transcripts, expert interviews, or industry webinars for actionable business insights.
 # How to use this Rag AI Assistant on your own data
 
 ## STEP-1 Collect your Own videos
